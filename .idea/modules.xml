@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/path-finder-fast-go/path-finder-fast-go.iml" filepath="$PROJECT_DIR$/path-finder-fast-go/path-finder-fast-go.iml" />
+      <module fileurl="file://$PROJECT_DIR$/path-finder-go/path-finder-go.iml" filepath="$PROJECT_DIR$/path-finder-go/path-finder-go.iml" />
+      <module fileurl="file://$PROJECT_DIR$/path-finder-python/path-finder-python.iml" filepath="$PROJECT_DIR$/path-finder-python/path-finder-python.iml" />
+    </modules>
+  </component>
+</project>
